@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "base_track": "The Night",
+  "base_artist": "Disturbed",
+  "createdAt": "2026-03-16T07:41:56.254925Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Help Me Make It Through The Night",
+      "artist": "Sammi Smith",
+      "has_synced": true,
+      "path": "select/01_Help_Me_Make_It_Through_The_Night_Sammi_Smith.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Help Me Make It Through The Night",
+      "artist": "Kris Kristofferson",
+      "has_synced": true,
+      "path": "select/02_Help_Me_Make_It_Through_The_Night_Kris_Kristofferson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Help Me Make It Through The Night (Album Version)",
+      "artist": "Kris Kristofferson",
+      "has_synced": true,
+      "path": "select/03_Help_Me_Make_It_Through_The_Night_(Album_Version)_Kris_Kristofferson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Help Me Make It Through the Night",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/04_Help_Me_Make_It_Through_the_Night_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Help Me Make It Through the Night (Album Version)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/05_Help_Me_Make_It_Through_the_Night_(Album_Version)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Here Comes The Night",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/06_Here_Comes_The_Night_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Here Comes the Night (LP Version)",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/07_Here_Comes_the_Night_(LP_Version)_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Leave The Night On",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/08_Leave_The_Night_On_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Living For The Night",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/09_Living_For_The_Night_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Living For The Night (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/10_Living_For_The_Night_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Night Hank Williams Came to Town",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/11_The_Night_Hank_Williams_Came_to_Town_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Night The Lights Went Out In Georgia",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/12_The_Night_The_Lights_Went_Out_In_Georgia_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Night The Lights Went Out In Georgia",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/13_The_Night_The_Lights_Went_Out_In_Georgia_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Night They Drove Old Dixie Down",
+      "artist": "The Charlie Daniels Band",
+      "has_synced": false,
+      "path": "select/14_The_Night_They_Drove_Old_Dixie_Down_The_Charlie_Daniels_Band.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "We Owned The Night",
+      "artist": "Lady Antebellum",
+      "has_synced": true,
+      "path": "select/15_We_Owned_The_Night_Lady_Antebellum.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Why Don't You Spend The Night",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/16_Why_Don't_You_Spend_The_Night_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Blow The Man Down",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/17_Blow_The_Man_Down_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bones in the Ocean",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/18_Bones_in_the_Ocean_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Bonny Ship the Diamond",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/19_Bonny_Ship_the_Diamond_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Crossing The Bar",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/20_Crossing_The_Bar_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Daughter of the Sea",
+      "artist": "Colm R. McGuinness",
+      "has_synced": true,
+      "path": "select/21_Daughter_of_the_Sea_Colm_R._McGuinness.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Daughter of the Sea (Warbringers: Jaina)",
+      "artist": "Peter Hollens",
+      "has_synced": true,
+      "path": "select/22_Daughter_of_the_Sea_(Warbringers__Jaina)_Peter_Hollens.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Enemy (From the series \"Arcane League of Legends\")",
+      "artist": "Imagine Dragons feat. JID, Arcane & League of Legends",
+      "has_synced": true,
+      "path": "select/23_Enemy_(From_the_series__Arcane_League_of_Legends_)_Imagine_Dragons_feat._JID,_Arcane_&_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Enemy (from the series Arcane League of Legends)",
+      "artist": "Imagine Dragons, JID & League of Legends",
+      "has_synced": true,
+      "path": "select/24_Enemy_(from_the_series_Arcane_League_of_Legends)_Imagine_Dragons,_JID_&_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Hammer And The Anvil",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/25_Hammer_And_The_Anvil_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "On the Railroad",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/26_On_the_Railroad_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Pride Of The White Star Line",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/27_Pride_Of_The_White_Star_Line_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Roll the Old Chariot Along",
+      "artist": "David Coffin",
+      "has_synced": true,
+      "path": "select/28_Roll_the_Old_Chariot_Along_David_Coffin.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Sleeping in the Cold Below (From \"Warframe\") [feat. Damhnait Doyle]",
+      "artist": "Keith Power feat. Alan Doyle",
+      "has_synced": true,
+      "path": "select/29_Sleeping_in_the_Cold_Below_(From__Warframe_)_[feat._Damhnait_Doyle]_Keith_Power_feat._Alan_Doyle.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Sleeping in the Cold Below (From \"Warframe\")",
+      "artist": "Keith Power",
+      "has_synced": true,
+      "path": "select/30_Sleeping_in_the_Cold_Below_(From__Warframe_)_Keith_Power.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Game",
+      "artist": "Disturbed",
+      "has_synced": false,
+      "path": "select/pl_01_The_Game_Disturbed.txt"
+    }
+  ]
+}
